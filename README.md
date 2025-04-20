@@ -82,13 +82,13 @@
 1. Склонируйте репозиторий.
 2. Перейдите в папку проекта.
 3. Выполните команду:
-   dotnet run --project WebApp
+   `dotnet run --project WebApp`
 4. Откройте браузер и перейдите по адресу `https://localhost:7028/swagger/index.html` или `https://localhost:5200/swagger/index.html`.
 
 ### Тестирование
 1. Перейдите в папку тестового проекта.
 2. Выполните команду:
-   dotnet test
+   `dotnet test`
 
 
 ---
