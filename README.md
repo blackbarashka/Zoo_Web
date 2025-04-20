@@ -77,6 +77,12 @@
 ---
 
 ## Использование
+### Установленные Nuget-пакеты:
+WebApp:
+![image](https://github.com/user-attachments/assets/87d63052-8b92-4938-92b0-725bea7f64c0)
+WebTest:
+![image](https://github.com/user-attachments/assets/0464cf35-5139-4072-a333-ec120ab4de79)
+
 
 ### Запуск приложения
 1. Склонируйте репозиторий.
