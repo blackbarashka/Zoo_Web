@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApp</name>
+    </assembly>
+    <members>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.GetAll">
+            <summary>
+            Получить список всех животных.
+            </summary>
+            <returns>Список животных.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.GetById(System.Int32)">
+            <summary>
+            Получить информацию о конкретном животном.
+            </summary>
+            <param name="id">Идентификатор животного.</param>
+            <returns>Данные животного.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.Create(ZooHSE.WebApi.Domain.Entities.Animal)">
+            <summary>
+            Добавить новое животное.
+            </summary>
+            <param name="animalDto">Данные животного.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.Update(System.Int32,ZooHSE.WebApi.Domain.Entities.Animal)">
+            <summary>
+            Обновить данные животного.
+            </summary>
+            <param name="id">Идентификатор животного.</param>
+            <param name="animalDto">Обновлённые данные животного.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.Delete(System.Int32)">
+            <summary>
+            Удалить животное.
+            </summary>
+            <param name="id">Идентификатор животного.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.TransferAnimal(System.Int32,System.Int32)">
+            <summary>
+            Переместить животное в другой вольер.
+            </summary>
+            <param name="animalId">Идентификатор животного.</param>
+            <param name="enclosureId">Идентификатор целевого вольера.</param>
+            <returns>Результат операции перемещения.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.HealAnimal(System.Int32)">
+            <summary>
+            Вылечить больное животное.
+            </summary>
+            <param name="id">Идентификатор животного.</param>
+            <returns>Результат операции лечения.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.GetAll">
+            <summary>
+            Получить список всех вольеров.
+            </summary>
+            <returns>Список вольеров.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.GetById(System.Int32)">
+            <summary>
+            Получить информацию о конкретном вольере.
+            </summary>
+            <param name="id">Идентификатор вольера.</param>
+            <returns>Данные вольера.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.Create(ZooHSE.WebApi.Domain.Entities.Enclosure)">
+            <summary>
+            Добавить новый вольер.
+            </summary>
+            <param name="enclosure">Данные вольера.</param>
+            <returns>Созданный вольер.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.Update(System.Int32,ZooHSE.WebApi.Domain.Entities.Enclosure)">
+            <summary>
+            Обновить данные вольера.
+            </summary>
+            <param name="id">Идентификатор вольера.</param>
+            <param name="enclosure">Обновлённые данные вольера.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.Delete(System.Int32)">
+            <summary>
+            Удалить вольер.
+            </summary>
+            <param name="id">Идентификатор вольера.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.CleanEnclosure(System.Int32)">
+            <summary>
+            Выполнить уборку в вольере.
+            </summary>
+            <param name="id">Идентификатор вольера.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController.GetAll">
+            <summary>
+            Получить список всех расписаний кормления.
+            </summary>
+            <returns>Список расписаний кормления.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController.GetByAnimal(System.Int32)">
+            <summary>
+            Получить расписания кормления для конкретного животного.
+            </summary>
+            <param name="animalId">Идентификатор животного.</param>
+            <returns>Список расписаний кормления для указанного животного.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController.Create(ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleRequest)">
+            <summary>
+            Создать новое расписание кормления.
+            </summary>
+            <param name="request">Данные для создания расписания кормления.</param>
+            <returns>Созданное расписание кормления.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController.UpdateFeedingTime(System.Int32,System.DateTime)">
+            <summary>
+            Обновить время кормления в расписании.
+            </summary>
+            <param name="id">Идентификатор расписания.</param>
+            <param name="newFeedingTime">Новое время кормления.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController.MarkAsCompleted(System.Int32)">
+            <summary>
+            Отметить кормление как выполненное.
+            </summary>
+            <param name="id">Идентификатор расписания кормления.</param>
+            <returns>Результат операции.</returns>
+        </member>
+        <member name="T:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleRequest">
+            <summary>
+            Модель запроса для создания расписания кормления.
+            </summary>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.StatisticsController.GetTotalAnimalCount">
+            <summary>
+            Получить общее количество животных в зоопарке.
+            </summary>
+            <returns>Общее количество животных.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.StatisticsController.GetAnimalCountByType">
+            <summary>
+            Получить количество животных по типам.
+            </summary>
+            <returns>Словарь с количеством животных каждого типа.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.StatisticsController.GetTotalEnclosureCount">
+            <summary>
+            Получить общее количество вольеров в зоопарке.
+            </summary>
+            <returns>Общее количество вольеров.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.StatisticsController.GetAvailableEnclosuresCount">
+            <summary>
+            Получить количество доступных вольеров.
+            </summary>
+            <returns>Количество свободных или частично заполненных вольеров.</returns>
+        </member>
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.StatisticsController.GetHealthyAnimalPercentage">
+            <summary>
+            Получить процент здоровых животных.
+            </summary>
+            <returns>Процент здоровых животных от общего числа.</returns>
+        </member>
+    </members>
+</doc>

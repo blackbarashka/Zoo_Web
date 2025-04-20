@@ -1,0 +1,482 @@
+[
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.AnimalController",
+    "Method": "GetAll",
+    "RelativePath": "api/animals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ZooHSE.WebApi.Domain.Entities.Animal, WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.AnimalController",
+    "Method": "Create",
+    "RelativePath": "api/animals",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "animal",
+        "Type": "ZooHSE.WebApi.Domain.Entities.Animal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZooHSE.WebApi.Domain.Entities.Animal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.AnimalController",
+    "Method": "TransferAnimal",
+    "RelativePath": "api/animals/{animalId}/transfer/{enclosureId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "animalId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "enclosureId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.AnimalController",
+    "Method": "GetById",
+    "RelativePath": "api/animals/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZooHSE.WebApi.Domain.Entities.Animal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.AnimalController",
+    "Method": "Update",
+    "RelativePath": "api/animals/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "animal",
+        "Type": "ZooHSE.WebApi.Domain.Entities.Animal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.AnimalController",
+    "Method": "Delete",
+    "RelativePath": "api/animals/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.AnimalController",
+    "Method": "HealAnimal",
+    "RelativePath": "api/animals/{id}/heal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.EnclosureController",
+    "Method": "GetAll",
+    "RelativePath": "api/enclosures",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ZooHSE.WebApi.Domain.Entities.Enclosure, WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.EnclosureController",
+    "Method": "Create",
+    "RelativePath": "api/enclosures",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "enclosure",
+        "Type": "ZooHSE.WebApi.Domain.Entities.Enclosure",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZooHSE.WebApi.Domain.Entities.Enclosure",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.EnclosureController",
+    "Method": "GetById",
+    "RelativePath": "api/enclosures/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZooHSE.WebApi.Domain.Entities.Enclosure",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.EnclosureController",
+    "Method": "Update",
+    "RelativePath": "api/enclosures/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "enclosure",
+        "Type": "ZooHSE.WebApi.Domain.Entities.Enclosure",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.EnclosureController",
+    "Method": "Delete",
+    "RelativePath": "api/enclosures/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.EnclosureController",
+    "Method": "CleanEnclosure",
+    "RelativePath": "api/enclosures/{id}/clean",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController",
+    "Method": "GetAll",
+    "RelativePath": "api/feeding-schedules",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ZooHSE.WebApi.Domain.Entities.FeedingSchedule, WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController",
+    "Method": "Create",
+    "RelativePath": "api/feeding-schedules",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZooHSE.WebApi.Domain.Entities.FeedingSchedule",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController",
+    "Method": "MarkAsCompleted",
+    "RelativePath": "api/feeding-schedules/{id}/mark-completed",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController",
+    "Method": "UpdateFeedingTime",
+    "RelativePath": "api/feeding-schedules/{id}/update-time",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newFeedingTime",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController",
+    "Method": "GetByAnimal",
+    "RelativePath": "api/feeding-schedules/animal/{animalId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "animalId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ZooHSE.WebApi.Domain.Entities.FeedingSchedule, WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.StatisticsController",
+    "Method": "GetTotalAnimalCount",
+    "RelativePath": "api/statistics/animals/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.StatisticsController",
+    "Method": "GetAnimalCountByType",
+    "RelativePath": "api/statistics/animals/count/type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.StatisticsController",
+    "Method": "GetHealthyAnimalPercentage",
+    "RelativePath": "api/statistics/animals/health-percentage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.StatisticsController",
+    "Method": "GetTotalEnclosureCount",
+    "RelativePath": "api/statistics/enclosures/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZooHSE.WebApi.Presentation.Controllers.StatisticsController",
+    "Method": "GetAvailableEnclosuresCount",
+    "RelativePath": "api/statistics/enclosures/count/available",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
