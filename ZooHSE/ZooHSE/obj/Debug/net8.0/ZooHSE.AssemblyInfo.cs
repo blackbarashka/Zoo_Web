@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZooHSE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a13074bb4d74d2216326719a9904b4e9282e581")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b76ca1e1ffb1f7037429dc00aa87a0a3e163dd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZooHSE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZooHSE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

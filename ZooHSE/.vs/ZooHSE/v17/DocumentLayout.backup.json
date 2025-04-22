@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webtest\\animalcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\animalcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webtest\\enclosurecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\enclosurecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webapp\\presentation\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\presentation\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,18 +119,6 @@
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webtest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webtest\\animalcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\animalcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hse_kpo-main\\zoohse\\webtest\\webtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\webtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,59 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InMemoryEnclosureRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:37:47.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InMemoryFeedingScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDgAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:38:01.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "WebApp\\Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:38:14.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AnimalController.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Presentation\\Controllers\\AnimalController.cs",
               "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\AnimalController.cs",
               "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Presentation\\Controllers\\AnimalController.cs",
               "RelativeToolTip": "WebApp\\Presentation\\Controllers\\AnimalController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T11:38:45.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EnclosureController.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Presentation\\Controllers\\EnclosureController.cs",
               "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\EnclosureController.cs",
@@ -235,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FeedingScheduleController.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
               "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
@@ -248,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StatisticsController.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Presentation\\Controllers\\StatisticsController.cs",
               "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\StatisticsController.cs",
@@ -261,7 +222,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnclosureControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\EnclosureControllerTests.cs",
+              "RelativeDocumentMoniker": "WebTest\\EnclosureControllerTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\EnclosureControllerTests.cs",
+              "RelativeToolTip": "WebTest\\EnclosureControllerTests.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwJQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:17:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\AnimalControllerTests.cs",
+              "RelativeDocumentMoniker": "WebTest\\AnimalControllerTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\AnimalControllerTests.cs",
+              "RelativeToolTip": "WebTest\\AnimalControllerTests.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAmwJsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:07:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedingScheduleControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
+              "RelativeDocumentMoniker": "WebTest\\FeedingScheduleControllerTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
+              "RelativeToolTip": "WebTest\\FeedingScheduleControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:16:16.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:38:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryFeedingScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:38:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryEnclosureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:37:47.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "InMemoryAnimalRepository.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
               "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
@@ -274,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Food.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\ValueObjects\\Food.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\ValueObjects\\Food.cs",
@@ -287,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "FeedingTimeEvent.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
@@ -300,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AnimalMovedEvent.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
@@ -313,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "EnclosureType.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\Enums\\EnclosureType.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Enums\\EnclosureType.cs",
@@ -326,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AnimalType.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\Enums\\AnimalType.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Enums\\AnimalType.cs",
@@ -339,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "FeedingSchedule.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\Entities\\FeedingSchedule.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Entities\\FeedingSchedule.cs",
@@ -352,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Enclosure.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\Entities\\Enclosure.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Entities\\Enclosure.cs",
@@ -365,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Domain\\Entities\\Animal.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Entities\\Animal.cs",
@@ -378,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ZooStatisticsService.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\Services\\ZooStatisticsService.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\Services\\ZooStatisticsService.cs",
@@ -391,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "FeedingOrganizationService.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\Services\\FeedingOrganizationService.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\Services\\FeedingOrganizationService.cs",
@@ -404,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AnimalTransferService.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\Services\\AnimalTransferService.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\Services\\AnimalTransferService.cs",
@@ -417,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "IFeedingScheduleRepository.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
@@ -430,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IEnclosureRepository.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
@@ -443,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IAnimalRepository.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
@@ -456,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "FeedingScheduleDto.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\DTOs\\FeedingScheduleDto.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\DTOs\\FeedingScheduleDto.cs",
@@ -469,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "EnclosureDto.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\DTOs\\EnclosureDto.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\DTOs\\EnclosureDto.cs",
@@ -482,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "AnimalDto.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\Application\\DTOs\\AnimalDto.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\DTOs\\AnimalDto.cs",
@@ -495,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "WebApp.csproj",
               "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebApp\\WebApp.csproj",
               "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
@@ -504,32 +543,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-19T22:13:13.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\Class1.cs",
-              "RelativeDocumentMoniker": "WebTest\\Class1.cs",
-              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\Class1.cs",
-              "RelativeToolTip": "WebTest\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:17:19.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FeedingScheduleControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
-              "RelativeDocumentMoniker": "WebTest\\FeedingScheduleControllerTests.cs",
-              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
-              "RelativeToolTip": "WebTest\\FeedingScheduleControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:16:16.532Z",
               "EditorCaption": ""
             },
             {
@@ -556,19 +569,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-19T20:56:32.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AnimalControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\AnimalControllerTests.cs",
-              "RelativeDocumentMoniker": "WebTest\\AnimalControllerTests.cs",
-              "ToolTip": "C:\\Users\\umaha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\HSE_KPO-main\\ZooHSE\\WebTest\\AnimalControllerTests.cs",
-              "RelativeToolTip": "WebTest\\AnimalControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T19:07:22.58Z",
               "EditorCaption": ""
             },
             {
