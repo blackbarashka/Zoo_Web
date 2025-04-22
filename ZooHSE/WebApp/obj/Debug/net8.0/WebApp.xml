@@ -336,7 +336,7 @@
             <param name="id">Идентификатор животного.</param>
             <returns>Данные животного.</returns>
         </member>
-        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.Create(ZooHSE.WebApi.Domain.Entities.Animal)">
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.AnimalController.Create(System.String,System.String,System.DateTime,System.String,System.String,System.Int32,System.Boolean,System.Int32,System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32})">
             <summary>
             Добавить новое животное. type: 0 - хищник, 1 - травоядное, 2 - рыба, 3 - птица
             </summary>
@@ -386,7 +386,7 @@
             <param name="id">Идентификатор вольера.</param>
             <returns>Данные вольера.</returns>
         </member>
-        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.Create(ZooHSE.WebApi.Domain.Entities.Enclosure)">
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.EnclosureController.Create(ZooHSE.WebApi.Domain.Enums.EnclosureType,System.Int32,System.Int32)">
             <summary>
             Добавить новый вольер.
             </summary>
@@ -428,7 +428,7 @@
             <param name="animalId">Идентификатор животного.</param>
             <returns>Список расписаний кормления для указанного животного.</returns>
         </member>
-        <member name="M:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController.Create(ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleRequest)">
+        <member name="M:ZooHSE.WebApi.Presentation.Controllers.FeedingScheduleController.Create(System.Int32,System.DateTime,System.String)">
             <summary>
             Создать новое расписание кормления.
             </summary>

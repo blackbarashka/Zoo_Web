@@ -39,6 +39,13 @@ namespace ZooHSE.WebApi.Presentation
                 {
                     c.SwaggerEndpoint("/swagger/v1/swagger.json", "ZooHSE API v1");
                 });
+
+                // Добавляем перенаправление с корневого маршрута на Swagger UI
+                app.MapGet("/", context =>
+                {
+                    context.Response.Redirect("/swagger/index.html");
+                    return Task.CompletedTask;
+                });
             }
 
             app.UseHttpsRedirection();

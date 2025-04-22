@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webtest\\animalcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\animalcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\valueobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\valueobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webtest\\animalcontrollertests1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\animalcontrollertests1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webtest\\enclosurecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\enclosurecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webtest\\webtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\webtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\presentation\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +39,32 @@
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\presentation\\controllers\\feedingschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\services\\feedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\services\\feedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\presentation\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\presentation\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\feedingschedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\infrastructure\\repositories\\inmemoryanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\valueobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\valueobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\events\\feedingtimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\events\\feedingtimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,24 +99,12 @@
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\enums\\animaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\domain\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\domain\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\services\\zoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\services\\zoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\services\\feedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\services\\feedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\services\\animaltransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,28 +123,8 @@
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\interfaces\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webtest\\webtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F7DF557C-540F-4FE6-B4FD-4D85C3406C2D}|WebTest\\WebTest.csproj|solutionrelative:webtest\\webtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|solutionrelative:webapp\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B8B3E9-F715-41C5-B13D-C788752EA381}|WebApp\\WebApp.csproj|c:\\users\\umaha\\documents\\github\\zoo_web\\zoohse\\webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,200 +170,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AnimalController.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\AnimalController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\AnimalController.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\AnimalController.cs",
-              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\AnimalController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:38:45.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnclosureController.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\EnclosureController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\EnclosureController.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\EnclosureController.cs",
-              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\EnclosureController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:39:00.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FeedingScheduleController.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
-              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAcwGgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:39:11.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StatisticsController.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\StatisticsController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\StatisticsController.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\StatisticsController.cs",
-              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\StatisticsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:39:24.136Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EnclosureControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\EnclosureControllerTests.cs",
-              "RelativeDocumentMoniker": "WebTest\\EnclosureControllerTests.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\EnclosureControllerTests.cs",
-              "RelativeToolTip": "WebTest\\EnclosureControllerTests.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAmwJQAAAA9AAAAAAAAAA==",
+              "Title": "AnimalControllerTests1.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\AnimalControllerTests1.cs",
+              "RelativeDocumentMoniker": "WebTest\\AnimalControllerTests1.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\AnimalControllerTests1.cs",
+              "RelativeToolTip": "WebTest\\AnimalControllerTests1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:17:19.139Z"
+              "WhenOpened": "2025-04-22T00:04:57.243Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AnimalControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\AnimalControllerTests.cs",
-              "RelativeDocumentMoniker": "WebTest\\AnimalControllerTests.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\AnimalControllerTests.cs",
-              "RelativeToolTip": "WebTest\\AnimalControllerTests.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAmwJsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T19:07:22.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FeedingScheduleControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
-              "RelativeDocumentMoniker": "WebTest\\FeedingScheduleControllerTests.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
-              "RelativeToolTip": "WebTest\\FeedingScheduleControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:16:16.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "WebApp\\Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:38:14.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InMemoryFeedingScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDgAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:38:01.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InMemoryEnclosureRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:37:47.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InMemoryAnimalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:37:36.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Food.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\ValueObjects\\Food.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\ValueObjects\\Food.cs",
               "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\ValueObjects\\Food.cs",
               "RelativeToolTip": "WebApp\\Domain\\ValueObjects\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T11:28:03.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FeedingTimeEvent.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
-              "RelativeDocumentMoniker": "WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
-              "RelativeToolTip": "WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\AnimalController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:27:45.415Z"
+              "WhenOpened": "2025-04-17T11:38:45.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AnimalMovedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
-              "RelativeDocumentMoniker": "WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
-              "RelativeToolTip": "WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "FeedingOrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\FeedingOrganizationService.cs",
+              "RelativeDocumentMoniker": "WebApp\\Application\\Services\\FeedingOrganizationService.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\FeedingOrganizationService.cs",
+              "RelativeToolTip": "WebApp\\Application\\Services\\FeedingOrganizationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:27:30.898Z"
+              "WhenOpened": "2025-04-17T11:36:10.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EnclosureType.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\EnclosureType.cs",
-              "RelativeDocumentMoniker": "WebApp\\Domain\\Enums\\EnclosureType.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\EnclosureType.cs",
-              "RelativeToolTip": "WebApp\\Domain\\Enums\\EnclosureType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EnclosureControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\EnclosureControllerTests.cs",
+              "RelativeDocumentMoniker": "WebTest\\EnclosureControllerTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\EnclosureControllerTests.cs",
+              "RelativeToolTip": "WebTest\\EnclosureControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:26:27.022Z"
+              "WhenOpened": "2025-04-20T09:17:19.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AnimalType.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\AnimalType.cs",
-              "RelativeDocumentMoniker": "WebApp\\Domain\\Enums\\AnimalType.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\AnimalType.cs",
-              "RelativeToolTip": "WebApp\\Domain\\Enums\\AnimalType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "FeedingScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
+              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\FeedingScheduleController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:26:06.581Z"
+              "WhenOpened": "2025-04-17T11:39:11.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "WebTest.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\WebTest.csproj",
+              "RelativeDocumentMoniker": "WebTest\\WebTest.csproj",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\WebTest.csproj",
+              "RelativeToolTip": "WebTest\\WebTest.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T19:20:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Program.cs",
+              "RelativeToolTip": "WebApp\\Presentation\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:39:35.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FeedingSchedule.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Entities\\FeedingSchedule.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Entities\\FeedingSchedule.cs",
@@ -375,115 +279,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "Enclosure.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Entities\\Enclosure.cs",
               "RelativeDocumentMoniker": "WebApp\\Domain\\Entities\\Enclosure.cs",
               "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Entities\\Enclosure.cs",
               "RelativeToolTip": "WebApp\\Domain\\Entities\\Enclosure.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwEsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T11:23:19.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Entities\\Animal.cs",
-              "RelativeDocumentMoniker": "WebApp\\Domain\\Entities\\Animal.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Entities\\Animal.cs",
-              "RelativeToolTip": "WebApp\\Domain\\Entities\\Animal.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA7wEIAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:22:27.516Z"
+              "WhenOpened": "2025-04-17T11:39:24.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ZooStatisticsService.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\ZooStatisticsService.cs",
-              "RelativeDocumentMoniker": "WebApp\\Application\\Services\\ZooStatisticsService.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\ZooStatisticsService.cs",
-              "RelativeToolTip": "WebApp\\Application\\Services\\ZooStatisticsService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEoAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EnclosureController.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\EnclosureController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Presentation\\Controllers\\EnclosureController.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Controllers\\EnclosureController.cs",
+              "RelativeToolTip": "WebApp\\Presentation\\Controllers\\EnclosureController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:36:22.965Z"
+              "WhenOpened": "2025-04-17T11:39:00.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FeedingOrganizationService.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\FeedingOrganizationService.cs",
-              "RelativeDocumentMoniker": "WebApp\\Application\\Services\\FeedingOrganizationService.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\FeedingOrganizationService.cs",
-              "RelativeToolTip": "WebApp\\Application\\Services\\FeedingOrganizationService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:36:10.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AnimalTransferService.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\AnimalTransferService.cs",
-              "RelativeDocumentMoniker": "WebApp\\Application\\Services\\AnimalTransferService.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\AnimalTransferService.cs",
-              "RelativeToolTip": "WebApp\\Application\\Services\\AnimalTransferService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwBEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:35:59.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IFeedingScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
-              "RelativeToolTip": "WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:35:42.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IEnclosureRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
-              "RelativeToolTip": "WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:35:26.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IAnimalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
-              "RelativeToolTip": "WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:35:04.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 12,
               "Title": "FeedingScheduleDto.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\DTOs\\FeedingScheduleDto.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\DTOs\\FeedingScheduleDto.cs",
               "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\DTOs\\FeedingScheduleDto.cs",
               "RelativeToolTip": "WebApp\\Application\\DTOs\\FeedingScheduleDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T11:34:31.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 13,
               "Title": "EnclosureDto.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\DTOs\\EnclosureDto.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\DTOs\\EnclosureDto.cs",
@@ -495,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 14,
               "Title": "AnimalDto.cs",
               "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\DTOs\\AnimalDto.cs",
               "RelativeDocumentMoniker": "WebApp\\Application\\DTOs\\AnimalDto.cs",
@@ -507,13 +351,193 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeedingScheduleControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
+              "RelativeDocumentMoniker": "WebTest\\FeedingScheduleControllerTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\FeedingScheduleControllerTests.cs",
+              "RelativeToolTip": "WebTest\\FeedingScheduleControllerTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:16:16.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:38:14.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InMemoryFeedingScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:38:01.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InMemoryEnclosureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:37:47.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InMemoryAnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:37:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeedingTimeEvent.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
+              "RelativeDocumentMoniker": "WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
+              "RelativeToolTip": "WebApp\\Domain\\Events\\FeedingTimeEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:27:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnimalMovedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
+              "RelativeDocumentMoniker": "WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
+              "RelativeToolTip": "WebApp\\Domain\\Events\\AnimalMovedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:27:30.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnclosureType.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\EnclosureType.cs",
+              "RelativeDocumentMoniker": "WebApp\\Domain\\Enums\\EnclosureType.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\EnclosureType.cs",
+              "RelativeToolTip": "WebApp\\Domain\\Enums\\EnclosureType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:26:27.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AnimalType.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\AnimalType.cs",
+              "RelativeDocumentMoniker": "WebApp\\Domain\\Enums\\AnimalType.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Enums\\AnimalType.cs",
+              "RelativeToolTip": "WebApp\\Domain\\Enums\\AnimalType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:26:06.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Entities\\Animal.cs",
+              "RelativeDocumentMoniker": "WebApp\\Domain\\Entities\\Animal.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Domain\\Entities\\Animal.cs",
+              "RelativeToolTip": "WebApp\\Domain\\Entities\\Animal.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA3wEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:22:27.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ZooStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\ZooStatisticsService.cs",
+              "RelativeDocumentMoniker": "WebApp\\Application\\Services\\ZooStatisticsService.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\ZooStatisticsService.cs",
+              "RelativeToolTip": "WebApp\\Application\\Services\\ZooStatisticsService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:36:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnimalTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\AnimalTransferService.cs",
+              "RelativeDocumentMoniker": "WebApp\\Application\\Services\\AnimalTransferService.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Services\\AnimalTransferService.cs",
+              "RelativeToolTip": "WebApp\\Application\\Services\\AnimalTransferService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:35:59.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFeedingScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
+              "RelativeToolTip": "WebApp\\Application\\Interfaces\\IFeedingScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:35:42.869Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "IEnclosureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
+              "RelativeToolTip": "WebApp\\Application\\Interfaces\\IEnclosureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:35:26.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
+              "RelativeToolTip": "WebApp\\Application\\Interfaces\\IAnimalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:35:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "WebApp.csproj",
               "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\WebApp.csproj",
               "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
               "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\WebApp.csproj",
               "RelativeToolTip": "WebApp\\WebApp.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-19T22:13:13.918Z"
             },
@@ -540,30 +564,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-19T20:56:32.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp\\Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebApp\\Presentation\\Program.cs",
-              "RelativeToolTip": "WebApp\\Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:39:35.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "WebTest.csproj",
-              "DocumentMoniker": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\WebTest.csproj",
-              "RelativeDocumentMoniker": "WebTest\\WebTest.csproj",
-              "ToolTip": "C:\\Users\\umaha\\Documents\\GitHub\\Zoo_Web\\ZooHSE\\WebTest\\WebTest.csproj",
-              "RelativeToolTip": "WebTest\\WebTest.csproj",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-19T19:20:22.83Z"
             },
             {
               "$type": "Document",

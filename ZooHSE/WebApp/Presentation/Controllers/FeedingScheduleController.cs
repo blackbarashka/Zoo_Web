@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using ZooHSE.WebApi.Application.Interfaces;
 using ZooHSE.WebApi.Application.Services;
 using ZooHSE.WebApi.Domain.Entities;
 
@@ -44,12 +45,26 @@ namespace ZooHSE.WebApi.Presentation.Controllers
         /// <param name="request">Данные для создания расписания кормления.</param>
         /// <returns>Созданное расписание кормления.</returns>
         [HttpPost]
-        public ActionResult<FeedingSchedule> Create([FromBody] FeedingScheduleRequest request)
+        public ActionResult<FeedingSchedule> Create(
+
+
+        [FromQuery] int animalId,
+        [FromQuery] DateTime feedingTime,
+        [FromQuery] string foodType)
         {
             try
             {
-                var schedule = _feedingService.AddFeedingSchedule(request.AnimalId, request.FeedingTime, request.FoodType);
-                return CreatedAtAction(nameof(GetAll), new { id = schedule.Id }, schedule);
+                var schedule = new FeedingSchedule
+                {
+                    AnimalId = animalId,
+                    FeedingTime = feedingTime,
+                    FoodType = foodType,
+                    IsCompleted = false
+                };
+
+                var huent = _feedingService.AddFeedingSchedule(schedule.AnimalId, schedule.FeedingTime, schedule.FoodType);
+
+                return CreatedAtAction(nameof(GetAll), new { id = huent.Id }, huent);
             }
             catch (Exception ex)
             {

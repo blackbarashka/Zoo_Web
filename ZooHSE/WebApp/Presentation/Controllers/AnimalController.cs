@@ -51,15 +51,50 @@ namespace ZooHSE.WebApi.Presentation.Controllers
         /// <param name="animalDto">Данные животного.</param>
         /// <returns>Результат операции.</returns>
         [HttpPost]
-        public ActionResult<Animal> Create([FromBody] Animal animal)
+        public ActionResult<Animal> Create(
+    [FromQuery] string name,
+    [FromQuery] string species,
+    [FromQuery] DateTime birthDate,
+    [FromQuery] string gender,
+    [FromQuery] string favoriteFoodName,
+    [FromQuery] int favoriteFoodQuantity,
+    [FromQuery] bool isHealthy,
+    [FromQuery] int type,
+    [FromQuery] int? enclosureId = null,
+    [FromQuery] int? kindnessLevel = null,
+    [FromQuery] int? earLength = null,
+    [FromQuery] int? iq = null,
+    [FromQuery] int? tailLength = null)
         {
-            if (animal == null)
-                return BadRequest();
+            try
+            {
+                // Создаем объект Animal
+                var animal = new Animal
+                {
+                    Name = name,
+                    Species = species,
+                    BirthDate = birthDate,
+                    Gender = gender,
+                    FavoriteFood = new Food(favoriteFoodName, favoriteFoodQuantity),
+                    IsHealthy = isHealthy,
+                    Type = (AnimalType)type,
+                    EnclosureId = enclosureId,
+                    KindnessLevel = kindnessLevel,
+                    EarLength = earLength,
+                    IQ = iq,
+                    TailLength = tailLength
+                };
 
-            _animalRepository.Add(animal);
+                _animalRepository.Add(animal);
 
-            return CreatedAtAction(nameof(GetById), new { id = animal.Id }, animal);
+                return CreatedAtAction(nameof(GetById), new { id = animal.Id }, animal);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { error = ex.Message });
+            }
         }
+
 
         /// <summary>
         /// Обновить данные животного.

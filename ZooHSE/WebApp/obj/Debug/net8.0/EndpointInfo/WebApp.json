@@ -48,25 +48,107 @@
           "Animal"
         ],
         "summary": "Добавить новое животное. type: 0 - хищник, 1 - травоядное, 2 - рыба, 3 - птица",
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Animal"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Animal"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Animal"
-              }
+        "parameters": [
+          {
+            "name": "name",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "species",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "birthDate",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "gender",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "favoriteFoodName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "favoriteFoodQuantity",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "isHealthy",
+            "in": "query",
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "enclosureId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "kindnessLevel",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "earLength",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "iq",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "tailLength",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
             }
           }
-        },
+        ],
         "responses": {
           "200": {
             "description": "OK",
@@ -301,26 +383,32 @@
           "Enclosure"
         ],
         "summary": "Добавить новый вольер.",
-        "requestBody": {
-          "description": "Данные вольера.",
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Enclosure"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Enclosure"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Enclosure"
-              }
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "description": "Перечисление типов вольеров в зоопарке.",
+            "schema": {
+              "$ref": "#/components/schemas/EnclosureType"
+            }
+          },
+          {
+            "name": "size",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "maxCapacity",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
             }
           }
-        },
+        ],
         "responses": {
           "200": {
             "description": "OK",
@@ -521,26 +609,31 @@
           "FeedingSchedule"
         ],
         "summary": "Создать новое расписание кормления.",
-        "requestBody": {
-          "description": "Данные для создания расписания кормления.",
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/FeedingScheduleRequest"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/FeedingScheduleRequest"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/FeedingScheduleRequest"
-              }
+        "parameters": [
+          {
+            "name": "animalId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "feedingTime",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "foodType",
+            "in": "query",
+            "schema": {
+              "type": "string"
             }
           }
-        },
+        ],
         "responses": {
           "200": {
             "description": "OK",
@@ -1015,25 +1108,6 @@
         },
         "additionalProperties": false,
         "description": "Класс, представляющий график кормления животных в зоопарке."
-      },
-      "FeedingScheduleRequest": {
-        "type": "object",
-        "properties": {
-          "animalId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "feedingTime": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "foodType": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false,
-        "description": "Модель запроса для создания расписания кормления."
       },
       "Food": {
         "type": "object",

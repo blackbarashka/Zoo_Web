@@ -5,8 +5,8 @@
     /// </summary>
     public class Food
     {
-        public string Name { get; }
-        public int Quantity { get; }
+        public string Name { get; set; }
+        public int Quantity { get; set; }
 
         public Food(string name, int quantity)
         {

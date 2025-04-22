@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using ZooHSE.WebApi.Application.Interfaces;
 using ZooHSE.WebApi.Domain.Entities;
+using ZooHSE.WebApi.Domain.Enums;
 
 namespace ZooHSE.WebApi.Presentation.Controllers
 {
@@ -48,17 +49,31 @@ namespace ZooHSE.WebApi.Presentation.Controllers
         /// <param name="enclosure">Данные вольера.</param>
         /// <returns>Созданный вольер.</returns>
         [HttpPost]
-        public ActionResult<Enclosure> Create([FromBody] Enclosure enclosure)
+        public ActionResult<Enclosure> Create(
+    [FromQuery] EnclosureType type,
+    [FromQuery] int size,
+    [FromQuery] int maxCapacity)
         {
-            if (enclosure == null)
-                return BadRequest();
+            try
+            {
+                var enclosure = new Enclosure
+                {
+                    Type = type,
+                    Size = size,
+                    MaxCapacity = maxCapacity,
+                    CurrentAnimalCount = 0
+                };
 
-            _enclosureRepository.Add(enclosure);
+                _enclosureRepository.Add(enclosure);
 
-            return CreatedAtAction(nameof(GetById), new { id = enclosure.Id }, enclosure);
+                return CreatedAtAction(nameof(GetById), new { id = enclosure.Id }, enclosure);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = $"Ошибка при создании вольера: {ex.Message}" });
+            }
+
         }
-
-
         /// <summary>
         /// Обновить данные вольера.
         /// </summary>
